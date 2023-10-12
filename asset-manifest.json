@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dhruviktank/WeatherApp.git/static/css/main.d9812deb.css",
+    "main.js": "/dhruviktank/WeatherApp.git/static/js/main.0c322029.js",
+    "static/js/787.d9312eb8.chunk.js": "/dhruviktank/WeatherApp.git/static/js/787.d9312eb8.chunk.js",
+    "index.html": "/dhruviktank/WeatherApp.git/index.html",
+    "main.d9812deb.css.map": "/dhruviktank/WeatherApp.git/static/css/main.d9812deb.css.map",
+    "main.0c322029.js.map": "/dhruviktank/WeatherApp.git/static/js/main.0c322029.js.map",
+    "787.d9312eb8.chunk.js.map": "/dhruviktank/WeatherApp.git/static/js/787.d9312eb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9812deb.css",
+    "static/js/main.0c322029.js"
+  ]
+}
